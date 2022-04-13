@@ -1,0 +1,9 @@
+__pycache__/
+result/
+.ipynb_checkpoints/
+load_target_list/
+tests/
+*.sh
+*.ipynb
+task/target.npy
+result*
